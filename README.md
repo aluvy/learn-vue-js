@@ -1,1 +1,1 @@
-# learn-vue-js
+# lean-vue-js
